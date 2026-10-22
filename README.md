@@ -92,7 +92,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mern-recommendation-engine.git
+git clone https://github.com/ajinkya029/recommendation-engine.git
 cd recommendation-engine
 ```
 
